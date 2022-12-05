@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ralonsobeas" alt="ralonsobeas" /></a> </p>
 
-- 🔭 I’m currently working on [CompanyDay](https://github.com/ralonsobeas/CompanyDay)
+- 🔭 I’m currently working on Telefónica and VR Sailing Simulator
 
 - 🌱 I’m currently learning **Python, Unity and Unreal**
 
