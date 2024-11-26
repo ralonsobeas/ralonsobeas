@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on Telefónica and VR Sailing Simulator
 
-- 🌱 I’m currently learning **Python, Unity and Unreal**
+- 🌱 I’m currently learning **ML & VFX**
 
-- 👯 I’m looking to collaborate on **VR proyects**
+- 👯 I’m looking to collaborate on **VR, VFX & ML proyects**
 
 - 📝 I regularly write articles on [https://github.com/ralonsobeas](https://github.com/ralonsobeas)
 
-- 💬 Ask me about **Java and sailing :)**
+- 💬 Ask me about **sailing :)**
 
 - 📫 How to reach me **ralonsobeas@gmail.com**
 
